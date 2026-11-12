@@ -1,0 +1,9 @@
+.vs/
+build/
+cmake-build-*/
+*.user
+*.suo
+*.pdb
+*.obj
+voucher_data.txt
+voucher_lab7_demo.txt
